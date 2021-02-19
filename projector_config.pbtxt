@@ -1,9 +1,0 @@
-embeddings {
-tensor_name: "default:00000"
-tensor_path: "https://gist.githubusercontent.com/chingisooinar-second/3d5d0b1356493899d85e1a57f0822137/raw/61e01450c3062de26240d9cbe3968abf016288fa/tensors.tsv"
-sprite {
-image_path: "https://github.com/chingisooinar-second/middleschool/blob/main/sprite.png"
-single_image_dim: 28
-single_image_dim: 28
-}
-}
