@@ -3,17 +3,16 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        1983,
+        1984,
         512
       ],
-      "tensorPath": "https://gist.githubusercontent.com/chingisooinar-second/3d5d0b1356493899d85e1a57f0822137/raw/61e01450c3062de26240d9cbe3968abf016288fa/tensors.tsv",
+      "tensorPath": "https://gist.githubusercontent.com/chingisooinar-second/1dce72d835d1f0c3353aed5307406254/raw/f3f45e753c26622f336233c4df3ab019d8d32a97/tensors.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/chingisooinar-second/a79233bbab540af33acbf80bd89f093e/raw/85c2ef71b0e9b6b5716f563ac77d2a71271d495c/metadata.tsv",
       "sprite": {
-        "imagePath": "sprite.png",
-        "singleImageDim": [
-          28,
-          28
-        ]
+        "imagePath": "https://github.com/chingisooinar-second/middleschool/blob/main/sprite.png",
+        "singleImageDim": [28, 28]
       }
+
     }
   ]
 }
